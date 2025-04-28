@@ -82,8 +82,7 @@ function HowItWorks() {
                                 <p className="hiw-text">with 6 cores</p>
                                  
                              </div>                           
-                        </div>                
-
+                        </div>              
 
         </div>
 

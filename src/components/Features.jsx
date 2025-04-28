@@ -101,8 +101,6 @@ const Features = () => {
                                  </p>
                                  
                              </div>                           
-
-
                         </div>
 
                     </div>
